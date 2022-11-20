@@ -1,4 +1,4 @@
-#wordly
+#wordle
 """import string
 newlist2 = []
 txt_file = open("src\dictionary.txt", "r") #whole dictionart
